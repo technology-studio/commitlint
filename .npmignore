@@ -1,0 +1,9 @@
+**
+!/bin/
+!/bin/**/*
+!/src/
+!/src/**/*
+!/lib/
+!/lib/**/*
+!/*.md
+!/package.json

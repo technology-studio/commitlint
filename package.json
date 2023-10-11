@@ -1,0 +1,38 @@
+{
+  "name": "@txo/commitlint",
+  "version": "1.0.0",
+  "description": "Technology Studio - Commitlint",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/technology-studio/commitlint.git"
+  },
+  "author": {
+    "name": "Technology Studio",
+    "email": "npm@technologystudio.sk",
+    "url": "https://github.com/technology-studio/"
+  },
+  "license": "UNLICENSED",
+  "private": false,
+  "scripts": {
+    "noop": ":",
+    "prepare": "husky install",
+    "semantic-release": "semantic-release",
+    "test": "yarn noop"
+  },
+  "bin": {
+    "txo-cz": "./bin/txo-cz.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "@commitlint/cli": "^17.7.2",
+    "@commitlint/config-conventional": "^17.7.0",
+    "commitizen": "^4.3.0"
+  },
+  "devDependencies": {
+    "@txo/semantic-release": "^1.0.0",
+    "husky": "^8.0.3"
+  }
+}
