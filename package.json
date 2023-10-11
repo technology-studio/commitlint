@@ -15,14 +15,10 @@
   "license": "UNLICENSED",
   "private": false,
   "scripts": {
-    "compare-boilerplate-version": "./scripts/compare-boilerplate-version.sh",
     "noop": ":",
     "prepare": "husky install",
-    "print-txo-packages": "yarn list 2> /dev/null|grep @txo|sed 's/.*\\(@txo[^@]*\\)@^*\\([^ ]*\\).*/\\1@\\2/g'|sort|uniq",
-    "sanity": "yarn compare-boilerplate-version && echo 'success'",
     "semantic-release": "semantic-release",
-    "test": "yarn noop",
-    "update-boilerplate-version": "./scripts/update-boilerplate-version.sh"
+    "test": "yarn noop"
   },
   "bin": {
     "txo-cz": "./bin/txo-cz.js"
@@ -38,8 +34,6 @@
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/git": "^10.0.1",
-    "husky": "^8.0.3",
-    "npm-check-updates": "^16.14.5",
-    "rimraf": "^5.0.5"
+    "husky": "^8.0.3"
   }
 }
