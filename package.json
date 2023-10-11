@@ -1,12 +1,12 @@
 {
-  "name": "@txo/commitlint-config",
+  "name": "@txo/commitlint",
   "version": "1.0.0",
   "description": "Technology Studio - Commitlint",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/technology-studio/commitlint-config.git"
+    "url": "https://github.com/technology-studio/commitlint.git"
   },
   "author": {
     "name": "Technology Studio",
