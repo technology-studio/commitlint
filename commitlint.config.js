@@ -6,7 +6,7 @@
 
 const commitlintConfig = {
   extends: [
-    './lib/index.js',
+    './src/index.js',
   ],
 }
 
