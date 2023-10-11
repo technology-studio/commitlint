@@ -4,7 +4,7 @@
  * @Copyright: Technology Studio
 **/
 
-const automaticCommitPattern = /^chore\(release\):.*\[skip ci]/u
+const automaticCommitPattern = /^chore\(release\):.*\[skip ci\]/
 
 const commitlintConfig = {
   extends: [
