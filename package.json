@@ -1,12 +1,12 @@
 {
-  "name": "@txo/commitlint",
+  "name": "@txo/commitlint-config",
   "version": "1.0.0",
   "description": "Technology Studio - Commitlint",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/technology-studio/commitlint.git"
+    "url": "https://github.com/technology-studio/commitlint-config.git"
   },
   "author": {
     "name": "Technology Studio",
@@ -20,7 +20,7 @@
     "build:clean": "yarn rimraf lib",
     "build:lib": "yarn tsc",
     "build:watch": "yarn tsc --watch",
-    "test": "jest",
+    "test": "build && jest",
     "test:watch": "concurrently \"yarn build:watch\" \"jest --watch\"",
     "coverage": "jest --coverage && open coverage/lcov-report/index.html || xdg-open coverage/lcov-report/index.html",
     "compare-boilerplate-version": "./scripts/compare-boilerplate-version.sh",
