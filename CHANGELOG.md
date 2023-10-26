@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/technology-studio/commitlint/compare/v1.0.4...v1.0.5) (2023-10-26)
+
+
+### Bug fixes
+
+* **deps:** update dependency @commitlint/cli to ^18.2.0 ([1c7962b](https://github.com/technology-studio/commitlint/commit/1c7962bd1593635ec95ddce737a233a6a02d62d5))
+
 ## [1.0.4](https://github.com/technology-studio/commitlint/compare/v1.0.3...v1.0.4) (2023-10-25)
 
 
