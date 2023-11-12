@@ -1,3 +1,11 @@
+## [1.0.6](https://github.com/technology-studio/commitlint/compare/v1.0.5...v1.0.6) (2023-11-12)
+
+
+### Bug fixes
+
+* **deps:** update commitlint monorepo to ^18.4.0 ([fadc824](https://github.com/technology-studio/commitlint/commit/fadc824bb608bb759e80a6b5ae6242e456b5c428))
+* **deps:** update dependency @commitlint/cli to ^18.4.1 ([18b6e34](https://github.com/technology-studio/commitlint/commit/18b6e34d0b71d55345fcf7bb6761ec05e3727326))
+
 ## [1.0.5](https://github.com/technology-studio/commitlint/compare/v1.0.4...v1.0.5) (2023-10-26)
 
 
