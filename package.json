@@ -1,6 +1,6 @@
 {
   "name": "@txo/commitlint",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Technology Studio - Commitlint",
   "main": "src/index.js",
   "repository": {
