@@ -1,3 +1,10 @@
+## [1.0.10](https://github.com/technology-studio/commitlint/compare/v1.0.9...v1.0.10) (2024-01-05)
+
+
+### Bug fixes
+
+* update package.json ([#18](https://github.com/technology-studio/commitlint/issues/18)) ([364a18d](https://github.com/technology-studio/commitlint/commit/364a18d29b873917c6a01c9d79509c6edb17c2ca))
+
 ## [1.0.9](https://github.com/technology-studio/commitlint/compare/v1.0.8...v1.0.9) (2024-01-04)
 
 
