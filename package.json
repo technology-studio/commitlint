@@ -1,6 +1,6 @@
 {
   "name": "@txo/commitlint",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Technology Studio - Commitlint",
   "main": "src/index.js",
   "repository": {
@@ -27,12 +27,12 @@
     "node": ">=18.0.0"
   },
   "dependencies": {
-    "@commitlint/cli": "^18.4.3",
-    "@commitlint/config-conventional": "^18.4.3",
+    "@commitlint/cli": "^18.4.4",
+    "@commitlint/config-conventional": "^18.4.4",
     "commitizen": "^4.3.0"
   },
   "devDependencies": {
-    "@txo/semantic-release": "^1.0.3",
+    "@txo/semantic-release": "^1.0.7",
     "husky": "^8.0.3"
   }
 }
