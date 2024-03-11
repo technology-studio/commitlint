@@ -1,3 +1,10 @@
+## [1.0.14](https://github.com/technology-studio/commitlint/compare/v1.0.13...v1.0.14) (2024-03-11)
+
+
+### Bug fixes
+
+* **deps:** update dependency @commitlint/config-conventional to ^18.6.3 ([876797f](https://github.com/technology-studio/commitlint/commit/876797fbaae92c9364fb59503c74f376e0bf2f64))
+
 ## [1.0.13](https://github.com/technology-studio/commitlint/compare/v1.0.12...v1.0.13) (2024-02-14)
 
 
