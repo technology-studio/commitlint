@@ -1,3 +1,10 @@
+## [1.0.15](https://github.com/technology-studio/commitlint/compare/v1.0.14...v1.0.15) (2024-05-03)
+
+
+### Bug fixes
+
+* **deps:** update commitlint monorepo to v19 (major) ([#31](https://github.com/technology-studio/commitlint/issues/31)) ([ee9b0ef](https://github.com/technology-studio/commitlint/commit/ee9b0efdb2db1a5580176a7b7ad42790d9ed6800))
+
 ## [1.0.14](https://github.com/technology-studio/commitlint/compare/v1.0.13...v1.0.14) (2024-03-11)
 
 
