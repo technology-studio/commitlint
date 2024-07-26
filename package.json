@@ -33,6 +33,6 @@
   },
   "devDependencies": {
     "@txo/semantic-release": "^2.0.8",
-    "husky": "^9.1.2"
+    "husky": "^9.1.3"
   }
 }
