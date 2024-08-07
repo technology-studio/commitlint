@@ -1,3 +1,10 @@
+## [1.0.16](https://github.com/technology-studio/commitlint/compare/v1.0.15...v1.0.16) (2024-08-07)
+
+
+### Bug fixes
+
+* **deps:** update dependency @commitlint/cli to ^19.4.0 ([7d3362b](https://github.com/technology-studio/commitlint/commit/7d3362b46c318dbc0a8d22d0ca4539248cd5a44b))
+
 ## [1.0.15](https://github.com/technology-studio/commitlint/compare/v1.0.14...v1.0.15) (2024-05-03)
 
 
