@@ -1,3 +1,10 @@
+## [1.0.17](https://github.com/technology-studio/commitlint/compare/v1.0.16...v1.0.17) (2024-08-28)
+
+
+### Bug fixes
+
+* **deps:** update commitlint monorepo to ^19.4.1 ([6918efa](https://github.com/technology-studio/commitlint/commit/6918efa328dfaa77b47268db58ee933d08713723))
+
 ## [1.0.16](https://github.com/technology-studio/commitlint/compare/v1.0.15...v1.0.16) (2024-08-07)
 
 
