@@ -1,3 +1,10 @@
+## [1.0.19](https://github.com/technology-studio/commitlint/compare/v1.0.18...v1.0.19) (2024-09-27)
+
+
+### Bug fixes
+
+* **deps:** update dependency commitizen to ^4.3.1 ([33f02cd](https://github.com/technology-studio/commitlint/commit/33f02cd658de8f7077f9b03a00a04a4e361c4b35))
+
 ## [1.0.18](https://github.com/technology-studio/commitlint/compare/v1.0.17...v1.0.18) (2024-09-11)
 
 
