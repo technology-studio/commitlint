@@ -1,3 +1,16 @@
+## [1.0.20](https://github.com/technology-studio/commitlint/compare/v1.0.19...v1.0.20) (2024-11-19)
+
+
+### CI
+
+* add synchronize to PR workflow ([#48](https://github.com/technology-studio/commitlint/issues/48)) ([b81d17b](https://github.com/technology-studio/commitlint/commit/b81d17b36c2d014ea9a5aa1f1eb174e1ab60800f))
+* update pr and release workflows ([#46](https://github.com/technology-studio/commitlint/issues/46)) ([8c44d8b](https://github.com/technology-studio/commitlint/commit/8c44d8bdcd60fa5a9b2de60cac4d797ad6f8f02d))
+
+
+### Bug fixes
+
+* **deps:** update commitlint monorepo to ^19.6.0 ([#50](https://github.com/technology-studio/commitlint/issues/50)) ([45aade1](https://github.com/technology-studio/commitlint/commit/45aade13f32345d87c4b6f55632a103985f66b4b))
+
 ## [1.0.19](https://github.com/technology-studio/commitlint/compare/v1.0.18...v1.0.19) (2024-09-27)
 
 
