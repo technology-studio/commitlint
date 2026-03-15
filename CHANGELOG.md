@@ -1,3 +1,13 @@
+## [1.0.25](https://github.com/technology-studio/commitlint/compare/v1.0.24...v1.0.25) (2026-03-15)
+
+### CI
+
+* add pr.yml permissions ([#56](https://github.com/technology-studio/commitlint/issues/56)) ([2789a56](https://github.com/technology-studio/commitlint/commit/2789a56449a329b30fcee87b52b9dcec0de3003c))
+
+### Bug fixes
+
+* **deps:** update commitlint monorepo to v20 ([#57](https://github.com/technology-studio/commitlint/issues/57)) ([6678358](https://github.com/technology-studio/commitlint/commit/66783580dae78086c27a3fa744cc881a155c706b))
+
 ## [1.0.24](https://github.com/technology-studio/commitlint/compare/v1.0.23...v1.0.24) (2025-05-08)
 
 
