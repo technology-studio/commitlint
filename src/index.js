@@ -12,6 +12,10 @@ const commitlintConfig = {
     '@commitlint/config-conventional'
   ],
 
+  rules: {
+    'body-max-line-length': [0],
+  },
+
   ignores: [
     commitMsg => automaticCommitPattern.test(commitMsg)
   ]
