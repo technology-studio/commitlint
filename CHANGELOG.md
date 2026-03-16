@@ -1,3 +1,9 @@
+## [1.1.0](https://github.com/technology-studio/commitlint/compare/v1.0.25...v1.1.0) (2026-03-16)
+
+### Features
+
+* disable body-max-line-length rule ([#62](https://github.com/technology-studio/commitlint/issues/62)) ([228e06e](https://github.com/technology-studio/commitlint/commit/228e06eeb043b4bfcce0812035e0f398a22cfda9))
+
 ## [1.0.25](https://github.com/technology-studio/commitlint/compare/v1.0.24...v1.0.25) (2026-03-15)
 
 ### CI
