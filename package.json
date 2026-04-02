@@ -27,8 +27,8 @@
     "node": ">=18.0.0"
   },
   "dependencies": {
-    "@commitlint/cli": "^20.4.2",
-    "@commitlint/config-conventional": "^20.4.2",
+    "@commitlint/cli": "^20.4.3",
+    "@commitlint/config-conventional": "^20.4.3",
     "commitizen": "^4.3.1"
   },
   "devDependencies": {
