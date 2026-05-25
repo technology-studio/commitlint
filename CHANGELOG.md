@@ -1,3 +1,9 @@
+## [1.1.5](https://github.com/technology-studio/commitlint/compare/v1.1.4...v1.1.5) (2026-05-25)
+
+### Bug fixes
+
+* **deps:** update dependency @commitlint/cli to ^20.5.2 ([#71](https://github.com/technology-studio/commitlint/issues/71)) ([bb97068](https://github.com/technology-studio/commitlint/commit/bb97068aee7a607dd3dc96f74da2c75e41b25aec))
+
 ## [1.1.4](https://github.com/technology-studio/commitlint/compare/v1.1.3...v1.1.4) (2026-04-14)
 
 ### Bug fixes
