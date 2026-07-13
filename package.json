@@ -29,7 +29,7 @@
   "dependencies": {
     "@commitlint/cli": "^20.5.3",
     "@commitlint/config-conventional": "^20.5.3",
-    "commitizen": "^4.3.1"
+    "commitizen": "^4.3.2"
   },
   "devDependencies": {
     "@txo/semantic-release": "^2.0.17",
