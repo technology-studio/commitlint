@@ -32,7 +32,7 @@
     "commitizen": "^4.3.2"
   },
   "devDependencies": {
-    "@txo/semantic-release": "^2.1.3",
+    "@txo/semantic-release": "^2.1.4",
     "husky": "^9.1.7"
   }
 }
